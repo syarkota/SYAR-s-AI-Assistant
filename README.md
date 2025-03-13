@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/af93b56f-075b-4de5-b4af-dcd91c531d56
+
 # SYAR-s-AI-Assistant
 
 SYAR-Assistant is a voice-activated AI assistant built using Python and Tkinter, integrated with speech recognition and text-to-speech capabilities. It can recognize voice commands, respond with text and speech, open websites, provide weather updates, and execute basic tasks like playing music or opening Google/Youtube.
